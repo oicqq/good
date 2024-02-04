@@ -43,7 +43,7 @@ fp.write("# TvBox 配置\n\n")
 fp.write("本页面只是收集Box，自用请勿宣传\n\n")
 fp.write("所有资源全部搜集于网络，不保证可用性\n\n")
 fp.write("因电视对GitHub访问问题，所以将配置中的GitHub换成镜像源\n\n")
-fp.write("本次更新时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
+fp.write("本次更新时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n=========\n")
 fp.write("更新仅为自动更新，实际更新情况请以原始路径为准，内容参考url.json\n\n")
 fp.write(
     "如果有必要手动输入建议使用短链如：[http://gg.gg/](http://gg.gg/)，[https://suowo.cn/](https://suowo.cn/)，[https://dlj.li/](https://dlj.li/) 等\n\n")
